@@ -1,0 +1,15 @@
+.idea/
+.DS_Store
+.nyc_output/
+.vagrant/
+coverage/
+log/
+node_modules/
+plato/
+tmp/
+*npm-debug.log
+*.swp
+*.swo
+/Vagrantfile
+package-lock.json
+debug.log
